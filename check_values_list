@@ -1,7 +1,0 @@
-Define a list with elements 11, 25, 43, 68, 76 and 94. Write code that confirms the list of numbers are over 10.
-
-
-num_list=[11,25,43,68,76,94]
-
-if all([i>10 for i in num_list]):
-    print("Each of the numbers in the list is greater than 10.")

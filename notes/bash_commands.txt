@@ -1,0 +1,34 @@
+create new file
+    touch <file name>
+
+create a folder
+    mkdir <name of new directory>
+
+move files from one directory to another
+    mv <source> <target>
+
+change directory    
+    cd <path of target directory>
+
+shorthand for previous directory
+    ..
+
+change current directory to the previous directory
+    cd ..
+
+check which directory you're currently in (print current working directory)
+    pwd
+
+path to root directory
+    /
+
+shorthand for home directory
+    ~
+
+actual path of my home directory on this laptop
+    /Users/alyssacuignet
+    hence ~ = /Users/alyssacuignet
+
+
+
+

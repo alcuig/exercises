@@ -1,0 +1,8 @@
+Pushing changes to github 
+1. Git status - see untracked/unstaged files
+2. Git add filename
+3. Git status just to check 
+4. Git commit -m “insert message here”
+5. Git log - see all historical commits and check if the new one is there 
+6. Git push - pushes all commit to remote rep
+

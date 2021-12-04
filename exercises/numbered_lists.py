@@ -12,4 +12,6 @@ i.e. the output of the code would be:
 fruit = ['Apple', 'Watermelon', 'Grapes', 'Pear', 'Orange']
 
 for x in enumerate(fruit,1):
-    print(x)
+    print(x[0], x[1])
+
+print(1, "Alyssa")
