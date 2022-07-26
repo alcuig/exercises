@@ -29,6 +29,11 @@ actual path of my home directory on this laptop
     /Users/alyssacuignet
     hence ~ = /Users/alyssacuignet
 
-
-
+run python file in  bash 
+    cd to folder where <.py> file with code you want to run is stored
+    python3 <.py filename>
+    
+interrupt programme
+    ctrl + c 
+    if prompted, confirm shutdown with 'y'
 

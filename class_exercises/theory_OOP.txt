@@ -1,0 +1,23 @@
+INHERITANCE AND COMPOSITION 
+
+= two major concepts in OOP that model the relationship between two classes. 
+
+INHERITANCE
+    - models a "is a" relationship
+    - where Derived class inherits from a Base class
+    - thus Derived is a specialised version of Base
+    - Derived --> aka "derived classes, subclasses, subtypes
+    - Base --> aka base class or super class
+    - derived class will "inherit", "derive" or extend" a base class
+
+COMPOSITION 
+    - models a "has a" relationship 
+    - allows you to combine objects of other types 
+    - so a class Composite can contain an object of another class Components
+    - = Composite "has a" Component
+
+super()
+    - returns a proxy object (temp object of the superclass) that allows us to access methods of the base class
+    - 2 major use cases:
+        1/ allows us to aovoid using base class name explicitly 
+        2/ working with multiple Inheritance
